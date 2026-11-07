@@ -1,0 +1,340 @@
+[
+  {
+    "name": "B2B",
+    "components": [
+      {
+        "col": "Dist/90",
+        "weight": 0.2
+      },
+      {
+        "col": "Poss+-/90",
+        "weight": 1.0
+      },
+      {
+        "col": "Pass Completion %",
+        "weight": 1.0
+      },
+      {
+        "col": "Pres C/90",
+        "weight": 1.0
+      },
+      {
+        "col": "Pr passes/90",
+        "weight": 1.0
+      },
+      {
+        "col": "K Ps/90",
+        "weight": 1.5
+      },
+      {
+        "col": "Non-pen GC/90",
+        "weight": 1.0
+      }
+    ]
+  },
+  {
+    "name": "Wingback",
+    "components": [
+      {
+        "col": "Pr passes/90",
+        "weight": 1.0
+      },
+      {
+        "col": "Dist/90",
+        "weight": 0.2
+      },
+      {
+        "col": "Open Play Cross Completion %",
+        "weight": 1.0
+      },
+      {
+        "col": "Open Play Crosses Completed/90",
+        "weight": 1.0
+      },
+      {
+        "col": "Drb/90",
+        "weight": 1.0
+      },
+      {
+        "col": "xA/90",
+        "weight": 1.0
+      },
+      {
+        "col": "K Ps/90",
+        "weight": 1.0
+      }
+    ]
+  },
+  {
+    "name": "Fullback",
+    "components": [
+      {
+        "col": "Dist/90",
+        "weight": 0.2
+      },
+      {
+        "col": "Pr passes/90",
+        "weight": 1.0
+      },
+      {
+        "col": "Int/90",
+        "weight": 1.0
+      },
+      {
+        "col": "Pass Completion %",
+        "weight": 1.0
+      },
+      {
+        "col": "Tackle Completion %",
+        "weight": 1.0
+      }
+    ]
+  },
+  {
+    "name": "Ailier offensif",
+    "components": [
+      {
+        "col": "Drb/90",
+        "weight": 1.0
+      },
+      {
+        "col": "Non-pen GC/90",
+        "weight": 1.0
+      },
+      {
+        "col": "Shot quality",
+        "weight": 1.0
+      },
+      {
+        "col": "xA/90",
+        "weight": 1.0
+      },
+      {
+        "col": "Conversion %",
+        "weight": 1.0
+      },
+      {
+        "col": "Non pen xG Overperformance",
+        "weight": 0.25
+      }
+    ]
+  },
+  {
+    "name": "BPD",
+    "components": [
+      {
+        "col": "Pr passes/90",
+        "weight": 1.5
+      },
+      {
+        "col": "Pass Completion %",
+        "weight": 1.5
+      },
+      {
+        "col": "Int/90",
+        "weight": 1.0
+      },
+      {
+        "col": "K Tck/90",
+        "weight": 2.0
+      },
+      {
+        "col": "Tackle Completion %",
+        "weight": 1.0
+      }
+    ]
+  },
+  {
+    "name": "Defensive defender",
+    "components": [
+      {
+        "col": "Tck/90",
+        "weight": 1.0
+      },
+      {
+        "col": "Int/90",
+        "weight": 1.0
+      },
+      {
+        "col": "Tackle Completion %",
+        "weight": 1.0
+      },
+      {
+        "col": "K Tck/90",
+        "weight": 1.0
+      },
+      {
+        "col": "Blk/90",
+        "weight": 1.0
+      },
+      {
+        "col": "Clr/90",
+        "weight": 1.0
+      },
+      {
+        "col": "Hdrs W/90",
+        "weight": 1.0
+      }
+    ]
+  },
+  {
+    "name": "Finisher",
+    "components": [
+      {
+        "col": "Conversion %"
+      },
+      {
+        "col": "Non pen goals/90"
+      },
+      {
+        "col": "Shot quality"
+      },
+      {
+        "col": "Shot on target ratio"
+      },
+      {
+        "col": "Non pen xG Overperformance/90"
+      }
+    ]
+  },
+  {
+    "name": "MOC",
+    "components": [
+      {
+        "col": "Non pen goals/90"
+      },
+      {
+        "col": "NP-xG/90"
+      },
+      {
+        "col": "Asts/90"
+      },
+      {
+        "col": "xA/90"
+      },
+      {
+        "col": "ShT/90"
+      },
+      {
+        "col": "Pass Completion %"
+      },
+      {
+        "col": "Clear Cut Chances/90"
+      },
+      {
+        "col": "K Ps/90"
+      },
+      {
+        "col": "Shot on target ratio"
+      }
+    ]
+  },
+  {
+    "name": "Gardien",
+    "components": [
+      {
+        "col": "xGP/90",
+        "weight": 2.0
+      },
+      {
+        "col": "Saves/90",
+        "weight": 1.0
+      },
+      {
+        "col": "Sv %",
+        "weight": 1.0
+      },
+      {
+        "col": "Clean Sheet Ratio",
+        "weight": 1.0
+      }
+    ]
+  },
+  {
+    "name": "Ailier créatif",
+    "components": [
+      {
+        "col": "xA/90",
+        "weight": 1.0
+      },
+      {
+        "col": "Drb/90",
+        "weight": 1.0
+      },
+      {
+        "col": "Open Play Crosses Completed/90",
+        "weight": 1.0
+      },
+      {
+        "col": "K Ps/90",
+        "weight": 1.0
+      },
+      {
+        "col": "Non pen goals/90",
+        "weight": 1.0
+      }
+    ]
+  },
+  {
+    "name": "DLP",
+    "components": [
+      {
+        "col": "K Ps/90",
+        "weight": 1.0
+      },
+      {
+        "col": "Pr passes/90",
+        "weight": 1.0
+      },
+      {
+        "col": "xA/90",
+        "weight": 1.0
+      },
+      {
+        "col": "Pass Completion %",
+        "weight": 1.0
+      },
+      {
+        "col": "Dist/90",
+        "weight": 0.8
+      },
+      {
+        "col": "Poss Won/90",
+        "weight": 0.8
+      }
+    ]
+  },
+  {
+    "name": "Volante",
+    "components": [
+      {
+        "col": "Poss Won/90",
+        "weight": 1.0
+      },
+      {
+        "col": "Dist/90",
+        "weight": 1.0
+      },
+      {
+        "col": "Pres A/90",
+        "weight": 1.0
+      },
+      {
+        "col": "Pres C/90",
+        "weight": 1.0
+      },
+      {
+        "col": "Tck/90",
+        "weight": 1.0
+      },
+      {
+        "col": "Int/90",
+        "weight": 1.0
+      },
+      {
+        "col": "Shot on target ratio",
+        "weight": 1.0
+      }
+    ]
+  }
+]

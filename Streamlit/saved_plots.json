@@ -1,0 +1,82 @@
+[
+  {
+    "name": "Aerial",
+    "type": "📊 Scatter",
+    "selected_names": [
+      "César Tárrega"
+    ],
+    "radar_mode": "Defensive",
+    "radar_score_col": "Defensive Actions/90",
+    "custom_radar_cols": [],
+    "x_col": "K Hdrs/90",
+    "y_col": "Headers Lost %",
+    "show_outliers": false,
+    "outlier_k": 1.5,
+    "pct_mode": false
+  },
+  {
+    "name": "B2B",
+    "type": "📡 Radar",
+    "selected_names": [
+      "Marcelo Brozović",
+      "Rodri"
+    ],
+    "radar_mode": "Custom",
+    "radar_score_col": "B2B",
+    "custom_radar_cols": [
+      "Dist/90",
+      "Poss+-/90",
+      "Pass Completion %",
+      "Pres C/90",
+      "Pr passes/90",
+      "K Ps/90",
+      "Non-pen GC/90"
+    ],
+    "x_col": "",
+    "y_col": "",
+    "show_outliers": false,
+    "outlier_k": 1.5,
+    "pct_mode": false
+  },
+  {
+    "name": "Wingback",
+    "type": "📡 Radar",
+    "selected_names": [],
+    "radar_mode": "Custom",
+    "radar_score_col": "Wingback",
+    "custom_radar_cols": [
+      "Pr passes/90",
+      "Dist/90",
+      "Open Play Cross Completion %",
+      "Open Play Crosses Completed/90",
+      "Drb/90",
+      "xA/90",
+      "K Ps/90"
+    ],
+    "x_col": "",
+    "y_col": "",
+    "show_outliers": false,
+    "outlier_k": 1.5,
+    "pct_mode": false
+  },
+  {
+    "name": "Fullback",
+    "type": "📡 Radar",
+    "selected_names": [],
+    "radar_mode": "Custom",
+    "radar_score_col": "Fullback",
+    "custom_radar_cols": [
+      "Dist/90",
+      "Pr passes/90",
+      "Int/90",
+      "Tackle Quality",
+      "Poss+-/90",
+      "Pass Completion %"
+    ],
+    "x_col": "",
+    "y_col": "",
+    "show_outliers": false,
+    "outlier_k": 1.5,
+    "pct_mode": false
+  }
+]
