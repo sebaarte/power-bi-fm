@@ -193,7 +193,7 @@
         "col": "Shot on target ratio"
       },
       {
-        "col": "Non pen xG Overperformance/90"
+        "col": "Non pen xG Overperformance"
       }
     ]
   },
@@ -233,20 +233,19 @@
     "name": "Gardien",
     "components": [
       {
-        "col": "xGP/90",
-        "weight": 2.0
+        "col": "xGP/90"
       },
       {
-        "col": "Saves/90",
-        "weight": 1.0
+        "col": "Saves/90"
       },
       {
-        "col": "Sv %",
-        "weight": 1.0
+        "col": "Sv %"
       },
       {
-        "col": "Clean Sheet Ratio",
-        "weight": 1.0
+        "col": "Clean Sheet Ratio"
+      },
+      {
+        "col": "Save Quality"
       }
     ]
   },

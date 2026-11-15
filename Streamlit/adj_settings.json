@@ -6,38 +6,13 @@
       "Possession": 0.5
     },
     {
-      "Club": "AEK",
-      "Ligue": "Stoiximan Super League",
-      "Possession": 0.5
-    },
-    {
-      "Club": "AGF",
-      "Ligue": "3F Superliga",
-      "Possession": 0.5
-    },
-    {
-      "Club": "AIK",
-      "Ligue": "Allsvenskan",
-      "Possession": 0.5
-    },
-    {
       "Club": "AZ",
       "Ligue": "Eredivisie",
       "Possession": 0.5
     },
     {
-      "Club": "AaB",
-      "Ligue": "3F Superliga",
-      "Possession": 0.5
-    },
-    {
-      "Club": "Aalesund",
-      "Ligue": "Eliteserien",
-      "Possession": 0.5
-    },
-    {
-      "Club": "Aberdeen",
-      "Ligue": "William Hill Premiership",
+      "Club": "Ac. Viseu",
+      "Ligue": "Liga Portugal",
       "Possession": 0.5
     },
     {
@@ -46,183 +21,63 @@
       "Possession": 0.5
     },
     {
-      "Club": "Akhmat",
-      "Ligue": "MIR Rossiyskaya Premyer-Liga",
-      "Possession": 0.5
-    },
-    {
-      "Club": "Akron",
-      "Ligue": "MIR Rossiyskaya Premyer-Liga",
-      "Possession": 0.5
-    },
-    {
-      "Club": "Al-Ahli (KSA)",
-      "Ligue": "Saudi Pro League",
-      "Possession": 0.55
-    },
-    {
-      "Club": "Al-Arabi (KSA)",
-      "Ligue": "Saudi Pro League",
-      "Possession": 0.4
-    },
-    {
-      "Club": "Al-Batin",
-      "Ligue": "Saudi Pro League",
-      "Possession": 0.5
-    },
-    {
-      "Club": "Al-Ettifaq",
-      "Ligue": "Saudi Pro League",
-      "Possession": 0.57
-    },
-    {
-      "Club": "Al-Faisaly (KSA)",
-      "Ligue": "Saudi Pro League",
-      "Possession": 0.56
-    },
-    {
-      "Club": "Al-Fateh",
-      "Ligue": "Saudi Pro League",
-      "Possession": 0.56
-    },
-    {
-      "Club": "Al-Fayha",
-      "Ligue": "Saudi Pro League",
-      "Possession": 0.5
-    },
-    {
-      "Club": "Al-Hilal (KSA)",
-      "Ligue": "Saudi Pro League",
-      "Possession": 0.59
-    },
-    {
-      "Club": "Al-Ittihad",
-      "Ligue": "Saudi Pro League",
-      "Possession": 0.59
-    },
-    {
-      "Club": "Al-Khaleej (KSA)",
-      "Ligue": "Saudi Pro League",
-      "Possession": 0.42
-    },
-    {
-      "Club": "Al-Nassr (KSA)",
-      "Ligue": "Saudi Pro League",
-      "Possession": 0.56
-    },
-    {
-      "Club": "Al-Okhdood",
-      "Ligue": "Saudi Pro League",
-      "Possession": 0.4
-    },
-    {
-      "Club": "Al-Qadsiah",
-      "Ligue": "Saudi Pro League",
-      "Possession": 0.42
-    },
-    {
-      "Club": "Al-Raed",
-      "Ligue": "Saudi Pro League",
-      "Possession": 0.44
-    },
-    {
-      "Club": "Al-Riyadh",
-      "Ligue": "Saudi Pro League",
-      "Possession": 0.5
-    },
-    {
-      "Club": "Al-Safa",
-      "Ligue": "Saudi Pro League",
-      "Possession": 0.38
-    },
-    {
-      "Club": "Al-Shabab",
-      "Ligue": "Saudi Pro League",
-      "Possession": 0.5
-    },
-    {
-      "Club": "Al-Taawoun",
-      "Ligue": "Saudi Pro League",
-      "Possession": 0.57
-    },
-    {
       "Club": "Alanyaspor",
-      "Ligue": "Trendyol Süper Lig",
+      "Ligue": "Süper Lig",
       "Possession": 0.5
     },
     {
-      "Club": "Almería",
-      "Ligue": "LaLiga EA Sports",
-      "Possession": 0.4
+      "Club": "Alavés",
+      "Ligue": "LaLiga",
+      "Possession": 0.5
+    },
+    {
+      "Club": "Aldosivi",
+      "Ligue": "Liga Profesional",
+      "Possession": 0.5
     },
     {
       "Club": "Alverca SAD",
-      "Ligue": "Liga Portugal Betclic",
+      "Ligue": "Liga Portugal",
       "Possession": 0.5
     },
     {
-      "Club": "América",
-      "Ligue": "Liga BBVA MX",
+      "Club": "Amed Sportif",
+      "Ligue": "Süper Lig",
       "Possession": 0.5
     },
     {
       "Club": "América (MG)",
-      "Ligue": "Campeonato Brasileiro Série A Assaí",
+      "Ligue": "Brasileirão",
       "Possession": 0.5
     },
     {
       "Club": "Anderlecht",
-      "Ligue": "Jupiler Pro League",
+      "Ligue": "Profvoetbal 1A",
       "Possession": 0.5
     },
     {
       "Club": "Angers",
-      "Ligue": "Ligue 1 Uber Eats",
+      "Ligue": "Ligue 1",
       "Possession": 0.5
     },
     {
-      "Club": "Antalyaspor",
-      "Ligue": "Trendyol Süper Lig",
-      "Possession": 0.5
-    },
-    {
-      "Club": "Antwerp",
-      "Ligue": "Jupiler Pro League",
+      "Club": "Antwerp FC",
+      "Ligue": "Profvoetbal 1A",
       "Possession": 0.5
     },
     {
       "Club": "Argentinos Jrs.",
-      "Ligue": "Liga Profesional de Fútbol",
-      "Possession": 0.5
-    },
-    {
-      "Club": "Aris",
-      "Ligue": "Stoiximan Super League",
-      "Possession": 0.5
-    },
-    {
-      "Club": "Arka",
-      "Ligue": "PKO Bank Polski Ekstraklasa",
+      "Ligue": "Liga Profesional",
       "Possession": 0.5
     },
     {
       "Club": "Arouca",
-      "Ligue": "Liga Portugal Betclic",
+      "Ligue": "Liga Portugal",
       "Possession": 0.5
     },
     {
       "Club": "Arsenal",
       "Ligue": "Premier League",
-      "Possession": 0.58
-    },
-    {
-      "Club": "Arsenal Tula",
-      "Ligue": "MIR Rossiyskaya Premyer-Liga",
-      "Possession": 0.5
-    },
-    {
-      "Club": "Asteras Tripolis",
-      "Ligue": "Stoiximan Super League",
       "Possession": 0.5
     },
     {
@@ -231,48 +86,38 @@
       "Possession": 0.5
     },
     {
-      "Club": "At. San Luis",
-      "Ligue": "Liga BBVA MX",
-      "Possession": 0.5
-    },
-    {
       "Club": "Atalanta",
-      "Ligue": "Serie A TIM",
+      "Ligue": "Serie A",
       "Possession": 0.5
     },
     {
-      "Club": "Athletic",
-      "Ligue": "LaLiga EA Sports",
+      "Club": "Athletic Club",
+      "Ligue": "LaLiga",
       "Possession": 0.5
     },
     {
-      "Club": "Athlético Paranaense",
-      "Ligue": "Campeonato Brasileiro Série A Assaí",
+      "Club": "Athletico Paranaense",
+      "Ligue": "Brasileirão",
+      "Possession": 0.5
+    },
+    {
+      "Club": "Atl. Tucumán",
+      "Ligue": "Liga Profesional",
       "Possession": 0.5
     },
     {
       "Club": "Atlanta United",
-      "Ligue": "Major League Soccer",
-      "Possession": 0.5
-    },
-    {
-      "Club": "Atlas",
-      "Ligue": "Liga BBVA MX",
+      "Ligue": "MLS",
       "Possession": 0.5
     },
     {
       "Club": "Atlético",
-      "Ligue": "LaLiga EA Sports",
-      "Possession": 0.58
-    },
-    {
-      "Club": "Atlético Mineiro",
-      "Ligue": "Campeonato Brasileiro Série A Assaí",
+      "Ligue": "LaLiga",
       "Possession": 0.5
     },
     {
-      "Club": "Atromitos",
-      "Ligue": "Stoiximan Super League",
+      "Club": "Atlético Mineiro",
+      "Ligue": "Brasileirão",
       "Possession": 0.5
     },
     {
@@ -282,72 +127,52 @@
     },
     {
       "Club": "Austin FC",
-      "Ligue": "Major League Soccer",
+      "Ligue": "MLS",
       "Possession": 0.5
     },
     {
-      "Club": "Austria Wien",
-      "Ligue": "ADMIRAL Bundesliga",
-      "Possession": 0.5
-    },
-    {
-      "Club": "Ayr United",
-      "Ligue": "William Hill Premiership",
-      "Possession": 0.5
-    },
-    {
-      "Club": "BK Häcken",
-      "Ligue": "Allsvenskan",
+      "Club": "Auxerre",
+      "Ligue": "Ligue 1",
       "Possession": 0.5
     },
     {
       "Club": "Bahia",
-      "Ligue": "Campeonato Brasileiro Série A Assaí",
+      "Ligue": "Brasileirão",
+      "Possession": 0.5
+    },
+    {
+      "Club": "Banfield",
+      "Ligue": "Liga Profesional",
       "Possession": 0.5
     },
     {
       "Club": "Barcelona",
-      "Ligue": "LaLiga EA Sports",
-      "Possession": 0.6
-    },
-    {
-      "Club": "Barracas Central",
-      "Ligue": "Liga Profesional de Fútbol",
-      "Possession": 0.5
+      "Ligue": "LaLiga",
+      "Possession": 0.61
     },
     {
       "Club": "Bayer Leverkusen",
       "Ligue": "Bundesliga",
-      "Possession": 0.55
+      "Possession": 0.5
     },
     {
       "Club": "Başakşehir F.K.",
-      "Ligue": "Trendyol Süper Lig",
+      "Ligue": "Süper Lig",
+      "Possession": 0.5
+    },
+    {
+      "Club": "Belgrano",
+      "Ligue": "Liga Profesional",
       "Possession": 0.5
     },
     {
       "Club": "Beşiktaş",
-      "Ligue": "Trendyol Süper Lig",
-      "Possession": 0.5
-    },
-    {
-      "Club": "Boavista",
-      "Ligue": "Liga Portugal Betclic",
+      "Ligue": "Süper Lig",
       "Possession": 0.5
     },
     {
       "Club": "Boca",
-      "Ligue": "Liga Profesional de Fútbol",
-      "Possession": 0.5
-    },
-    {
-      "Club": "Bochum",
-      "Ligue": "Bundesliga",
-      "Possession": 0.42
-    },
-    {
-      "Club": "Bodrum F.K.",
-      "Ligue": "Trendyol Süper Lig",
+      "Ligue": "Liga Profesional",
       "Possession": 0.5
     },
     {
@@ -357,22 +182,17 @@
     },
     {
       "Club": "Bologna",
-      "Ligue": "Serie A TIM",
+      "Ligue": "Serie A",
       "Possession": 0.5
     },
     {
       "Club": "Borussia Dortmund",
       "Ligue": "Bundesliga",
-      "Possession": 0.61
-    },
-    {
-      "Club": "Borussia M'gladbach",
-      "Ligue": "Bundesliga",
-      "Possession": 0.57
+      "Possession": 0.5
     },
     {
       "Club": "Botafogo",
-      "Ligue": "Campeonato Brasileiro Série A Assaí",
+      "Ligue": "Brasileirão",
       "Possession": 0.5
     },
     {
@@ -388,11 +208,11 @@
     {
       "Club": "Brentford",
       "Ligue": "Premier League",
-      "Possession": 0.5
+      "Possession": 0.41
     },
     {
       "Club": "Brest",
-      "Ligue": "Ligue 1 Uber Eats",
+      "Ligue": "Ligue 1",
       "Possession": 0.5
     },
     {
@@ -401,73 +221,58 @@
       "Possession": 0.5
     },
     {
-      "Club": "Bruk-Bet Termalica",
-      "Ligue": "PKO Bank Polski Ekstraklasa",
-      "Possession": 0.5
-    },
-    {
-      "Club": "Brøndby IF",
-      "Ligue": "3F Superliga",
-      "Possession": 0.5
-    },
-    {
-      "Club": "Burnley",
-      "Ligue": "Premier League",
-      "Possession": 0.42
-    },
-    {
       "Club": "CF Estrela Amadora",
-      "Ligue": "Liga Portugal Betclic",
+      "Ligue": "Liga Portugal",
       "Possession": 0.5
     },
     {
       "Club": "CF Montréal",
-      "Ligue": "Major League Soccer",
+      "Ligue": "MLS",
       "Possession": 0.5
     },
     {
       "Club": "CS Marítimo",
-      "Ligue": "Liga Portugal Betclic",
-      "Possession": 0.5
-    },
-    {
-      "Club": "CSKA Moscow",
-      "Ligue": "MIR Rossiyskaya Premyer-Liga",
+      "Ligue": "Liga Portugal",
       "Possession": 0.5
     },
     {
       "Club": "Cagliari",
-      "Ligue": "Serie A TIM",
+      "Ligue": "Serie A",
       "Possession": 0.5
     },
     {
       "Club": "Casa Pia",
-      "Ligue": "Liga Portugal Betclic",
+      "Ligue": "Liga Portugal",
       "Possession": 0.5
     },
     {
-      "Club": "Ceará",
-      "Ligue": "Campeonato Brasileiro Série A Assaí",
+      "Club": "Cavigal Football",
+      "Ligue": "National U19 Groupe D",
       "Possession": 0.5
     },
     {
       "Club": "Celta",
-      "Ligue": "LaLiga EA Sports",
-      "Possession": 0.5
-    },
-    {
-      "Club": "Celtic",
-      "Ligue": "William Hill Premiership",
+      "Ligue": "LaLiga",
       "Possession": 0.5
     },
     {
       "Club": "Central Córdoba (SdE)",
-      "Ligue": "Liga Profesional de Fútbol",
+      "Ligue": "Liga Profesional",
+      "Possession": 0.5
+    },
+    {
+      "Club": "Cercle Brugge",
+      "Ligue": "Profvoetbal 1A",
+      "Possession": 0.5
+    },
+    {
+      "Club": "Charleroi",
+      "Ligue": "Profvoetbal 1A",
       "Possession": 0.5
     },
     {
       "Club": "Charlotte FC",
-      "Ligue": "Major League Soccer",
+      "Ligue": "MLS",
       "Possession": 0.5
     },
     {
@@ -477,127 +282,82 @@
     },
     {
       "Club": "Chicago",
-      "Ligue": "Major League Soccer",
-      "Possession": 0.5
-    },
-    {
-      "Club": "Chivas",
-      "Ligue": "Liga BBVA MX",
+      "Ligue": "MLS",
       "Possession": 0.5
     },
     {
       "Club": "Cincinnati",
-      "Ligue": "Major League Soccer",
+      "Ligue": "MLS",
       "Possession": 0.5
     },
     {
       "Club": "Club Brugge",
-      "Ligue": "Jupiler Pro League",
+      "Ligue": "Profvoetbal 1A",
       "Possession": 0.5
     },
     {
       "Club": "Colorado",
-      "Ligue": "Major League Soccer",
+      "Ligue": "MLS",
       "Possession": 0.5
     },
     {
       "Club": "Columbus",
-      "Ligue": "Major League Soccer",
+      "Ligue": "MLS",
+      "Possession": 0.5
+    },
+    {
+      "Club": "Colón",
+      "Ligue": "Liga Profesional",
       "Possession": 0.5
     },
     {
       "Club": "Como",
-      "Ligue": "Serie A TIM",
+      "Ligue": "Serie A",
       "Possession": 0.5
     },
     {
       "Club": "Corinthians",
-      "Ligue": "Campeonato Brasileiro Série A Assaí",
+      "Ligue": "Brasileirão",
       "Possession": 0.5
     },
     {
       "Club": "Coritiba",
-      "Ligue": "Campeonato Brasileiro Série A Assaí",
+      "Ligue": "Brasileirão",
       "Possession": 0.5
     },
     {
       "Club": "Coventry",
       "Ligue": "Premier League",
-      "Possession": 0.4
-    },
-    {
-      "Club": "Cracovia",
-      "Ligue": "PKO Bank Polski Ekstraklasa",
-      "Possession": 0.5
-    },
-    {
-      "Club": "Cruz Azul",
-      "Ligue": "Liga BBVA MX",
       "Possession": 0.5
     },
     {
       "Club": "Cruzeiro",
-      "Ligue": "Campeonato Brasileiro Série A Assaí",
+      "Ligue": "Brasileirão",
       "Possession": 0.5
     },
     {
-      "Club": "Crvena zvezda",
-      "Ligue": "Mozzart Bet Super liga",
-      "Possession": 0.5
-    },
-    {
-      "Club": "Cádiz",
-      "Ligue": "LaLiga EA Sports",
+      "Club": "Crystal Palace",
+      "Ligue": "Premier League",
       "Possession": 0.5
     },
     {
       "Club": "D.C. United",
-      "Ligue": "Major League Soccer",
+      "Ligue": "MLS",
       "Possession": 0.5
     },
     {
-      "Club": "Darmstadt",
-      "Ligue": "Bundesliga",
+      "Club": "Defensa y Justicia",
+      "Ligue": "Liga Profesional",
       "Possession": 0.5
     },
     {
-      "Club": "Dender EH",
-      "Ligue": "Jupiler Pro League",
+      "Club": "Dep. Riestra",
+      "Ligue": "Liga Profesional",
       "Possession": 0.5
     },
     {
-      "Club": "Dinamo",
-      "Ligue": "SuperSport HNL",
-      "Possession": 0.5
-    },
-    {
-      "Club": "Dinamo Moscow",
-      "Ligue": "MIR Rossiyskaya Premyer-Liga",
-      "Possession": 0.5
-    },
-    {
-      "Club": "Djurgårdens IF",
-      "Ligue": "Allsvenskan",
-      "Possession": 0.5
-    },
-    {
-      "Club": "Dugopolje",
-      "Ligue": "SuperSport HNL",
-      "Possession": 0.5
-    },
-    {
-      "Club": "Dundee United",
-      "Ligue": "William Hill Premiership",
-      "Possession": 0.5
-    },
-    {
-      "Club": "Dunfermline Athletic",
-      "Ligue": "William Hill Premiership",
-      "Possession": 0.5
-    },
-    {
-      "Club": "Dynamo Kyiv",
-      "Ligue": "VBet Liha",
+      "Club": "Deportivo A Coruña",
+      "Ligue": "LaLiga",
       "Possession": 0.5
     },
     {
@@ -607,52 +367,57 @@
     },
     {
       "Club": "Elche",
-      "Ligue": "LaLiga EA Sports",
-      "Possession": 0.5
+      "Ligue": "LaLiga",
+      "Possession": 0.41
     },
     {
-      "Club": "Epicenter",
-      "Ligue": "VBet Liha",
+      "Club": "Erzurumspor F.K.",
+      "Ligue": "Süper Lig",
       "Possession": 0.5
     },
     {
       "Club": "Espanyol",
-      "Ligue": "LaLiga EA Sports",
+      "Ligue": "LaLiga",
       "Possession": 0.5
     },
     {
       "Club": "Estoril Praia",
-      "Ligue": "Liga Portugal Betclic",
+      "Ligue": "Liga Portugal",
       "Possession": 0.5
     },
     {
       "Club": "Estudiantes (LP)",
-      "Ligue": "Liga Profesional de Fútbol",
+      "Ligue": "Liga Profesional",
       "Possession": 0.5
     },
     {
-      "Club": "Eupen",
-      "Ligue": "Jupiler Pro League",
+      "Club": "Estudiantes (RC)",
+      "Ligue": "Liga Profesional",
       "Possession": 0.5
     },
     {
       "Club": "Everton",
       "Ligue": "Premier League",
+      "Possession": 0.43
+    },
+    {
+      "Club": "Excelsior",
+      "Ligue": "Eredivisie",
+      "Possession": 0.5
+    },
+    {
+      "Club": "Eyüpspor",
+      "Ligue": "Süper Lig",
       "Possession": 0.5
     },
     {
       "Club": "FC Bayern",
       "Ligue": "Bundesliga",
-      "Possession": 0.6
-    },
-    {
-      "Club": "FC Dallas",
-      "Ligue": "Major League Soccer",
       "Possession": 0.5
     },
     {
-      "Club": "FC Emmen",
-      "Ligue": "Eredivisie",
+      "Club": "FC Dallas",
+      "Ligue": "MLS",
       "Possession": 0.5
     },
     {
@@ -661,24 +426,14 @@
       "Possession": 0.5
     },
     {
-      "Club": "FC Juárez",
-      "Ligue": "Liga BBVA MX",
-      "Possession": 0.5
-    },
-    {
-      "Club": "FC København",
-      "Ligue": "3F Superliga",
-      "Possession": 0.5
-    },
-    {
-      "Club": "FC Midtjylland",
-      "Ligue": "3F Superliga",
+      "Club": "FC Köln",
+      "Ligue": "Bundesliga",
       "Possession": 0.5
     },
     {
       "Club": "FC Porto",
-      "Ligue": "Liga Portugal Betclic",
-      "Possession": 0.63
+      "Ligue": "Liga Portugal",
+      "Possession": 0.5
     },
     {
       "Club": "FC Twente",
@@ -691,18 +446,13 @@
       "Possession": 0.5
     },
     {
-      "Club": "Falkirk",
-      "Ligue": "William Hill Premiership",
-      "Possession": 0.5
-    },
-    {
       "Club": "Famalicão",
-      "Ligue": "Liga Portugal Betclic",
+      "Ligue": "Liga Portugal",
       "Possession": 0.5
     },
     {
       "Club": "Fenerbahçe",
-      "Ligue": "Trendyol Süper Lig",
+      "Ligue": "Süper Lig",
       "Possession": 0.5
     },
     {
@@ -712,12 +462,32 @@
     },
     {
       "Club": "Fiorentina",
-      "Ligue": "Serie A TIM",
+      "Ligue": "Serie A",
       "Possession": 0.5
     },
     {
       "Club": "Flamengo",
-      "Ligue": "Campeonato Brasileiro Série A Assaí",
+      "Ligue": "Brasileirão",
+      "Possession": 0.5
+    },
+    {
+      "Club": "Fluminense",
+      "Ligue": "Brasileirão",
+      "Possession": 0.5
+    },
+    {
+      "Club": "Fortuna Sittard",
+      "Ligue": "Eredivisie",
+      "Possession": 0.5
+    },
+    {
+      "Club": "Freiburg",
+      "Ligue": "Bundesliga",
+      "Possession": 0.5
+    },
+    {
+      "Club": "Frosinone",
+      "Ligue": "Serie A",
       "Possession": 0.5
     },
     {
@@ -727,37 +497,37 @@
     },
     {
       "Club": "Galatasaray",
-      "Ligue": "Trendyol Süper Lig",
+      "Ligue": "Süper Lig",
       "Possession": 0.5
     },
     {
       "Club": "Gaziantep F.K.",
-      "Ligue": "Trendyol Süper Lig",
+      "Ligue": "Süper Lig",
       "Possession": 0.5
     },
     {
       "Club": "Genoa",
-      "Ligue": "Serie A TIM",
-      "Possession": 0.5
-    },
-    {
-      "Club": "Gent",
-      "Ligue": "Jupiler Pro League",
+      "Ligue": "Serie A",
       "Possession": 0.5
     },
     {
       "Club": "Gençlerbirliği",
-      "Ligue": "Trendyol Süper Lig",
+      "Ligue": "Süper Lig",
+      "Possession": 0.5
+    },
+    {
+      "Club": "Getafe",
+      "Ligue": "LaLiga",
+      "Possession": 0.43
+    },
+    {
+      "Club": "Gil Vicente",
+      "Ligue": "Liga Portugal",
       "Possession": 0.5
     },
     {
       "Club": "Gimnasia (LP)",
-      "Ligue": "Liga Profesional de Fútbol",
-      "Possession": 0.5
-    },
-    {
-      "Club": "Girona",
-      "Ligue": "LaLiga EA Sports",
+      "Ligue": "Liga Profesional",
       "Possession": 0.5
     },
     {
@@ -766,38 +536,13 @@
       "Possession": 0.5
     },
     {
-      "Club": "Godoy Cruz",
-      "Ligue": "Liga Profesional de Fútbol",
-      "Possession": 0.5
-    },
-    {
-      "Club": "Granada",
-      "Ligue": "LaLiga EA Sports",
-      "Possession": 0.41
-    },
-    {
-      "Club": "Grêmio",
-      "Ligue": "Campeonato Brasileiro Série A Assaí",
-      "Possession": 0.5
-    },
-    {
-      "Club": "Guingamp",
-      "Ligue": "Ligue 1 Uber Eats",
-      "Possession": 0.42
-    },
-    {
-      "Club": "Górnik",
-      "Ligue": "PKO Bank Polski Ekstraklasa",
+      "Club": "Goiás",
+      "Ligue": "Brasileirão",
       "Possession": 0.5
     },
     {
       "Club": "Göztepe",
-      "Ligue": "Trendyol Süper Lig",
-      "Possession": 0.5
-    },
-    {
-      "Club": "Hajduk",
-      "Ligue": "SuperSport HNL",
+      "Ligue": "Süper Lig",
       "Possession": 0.5
     },
     {
@@ -806,28 +551,13 @@
       "Possession": 0.5
     },
     {
-      "Club": "Hammarby IF",
-      "Ligue": "Allsvenskan",
+      "Club": "Haugesund",
+      "Ligue": "Eliteserien",
       "Possession": 0.5
     },
     {
-      "Club": "Hearts",
-      "Ligue": "William Hill Premiership",
-      "Possession": 0.5
-    },
-    {
-      "Club": "Hellas Verona",
-      "Ligue": "Serie A TIM",
-      "Possession": 0.5
-    },
-    {
-      "Club": "Heracles Almelo",
-      "Ligue": "Eredivisie",
-      "Possession": 0.5
-    },
-    {
-      "Club": "Hibernian",
-      "Ligue": "William Hill Premiership",
+      "Club": "Havre AC",
+      "Ligue": "Ligue 1",
       "Possession": 0.5
     },
     {
@@ -837,227 +567,157 @@
     },
     {
       "Club": "Houston",
-      "Ligue": "Major League Soccer",
+      "Ligue": "MLS",
       "Possession": 0.5
     },
     {
-      "Club": "IFK Göteborg",
-      "Ligue": "Allsvenskan",
-      "Possession": 0.5
+      "Club": "Hull",
+      "Ligue": "Premier League",
+      "Possession": 0.41
     },
     {
-      "Club": "IFK Norrköping",
-      "Ligue": "Allsvenskan",
-      "Possession": 0.5
-    },
-    {
-      "Club": "IMT",
-      "Ligue": "Mozzart Bet Super liga",
+      "Club": "Huracán",
+      "Ligue": "Liga Profesional",
       "Possession": 0.5
     },
     {
       "Club": "Independiente",
-      "Ligue": "Liga Profesional de Fútbol",
+      "Ligue": "Liga Profesional",
       "Possession": 0.5
     },
     {
       "Club": "Independiente Rivadavia",
-      "Ligue": "Liga Profesional de Fútbol",
+      "Ligue": "Liga Profesional",
       "Possession": 0.5
     },
     {
       "Club": "Instituto",
-      "Ligue": "Liga Profesional de Fútbol",
+      "Ligue": "Liga Profesional",
       "Possession": 0.5
     },
     {
       "Club": "Inter",
-      "Ligue": "Serie A TIM",
-      "Possession": 0.57
+      "Ligue": "Serie A",
+      "Possession": 0.5
     },
     {
       "Club": "Inter Miami",
-      "Ligue": "Major League Soccer",
+      "Ligue": "MLS",
       "Possession": 0.5
     },
     {
       "Club": "Internacional",
-      "Ligue": "Campeonato Brasileiro Série A Assaí",
+      "Ligue": "Brasileirão",
       "Possession": 0.5
     },
     {
       "Club": "Ipswich",
       "Ligue": "Premier League",
-      "Possession": 0.5
-    },
-    {
-      "Club": "Iraklis",
-      "Ligue": "Stoiximan Super League",
-      "Possession": 0.5
-    },
-    {
-      "Club": "Istra 1961",
-      "Ligue": "SuperSport HNL",
-      "Possession": 0.5
-    },
-    {
-      "Club": "Jagiellonia",
-      "Ligue": "PKO Bank Polski Ekstraklasa",
-      "Possession": 0.5
+      "Possession": 0.41
     },
     {
       "Club": "Juventus",
-      "Ligue": "Serie A TIM",
-      "Possession": 0.59
+      "Ligue": "Serie A",
+      "Possession": 0.5
     },
     {
-      "Club": "KGHM Zagłębie",
-      "Ligue": "PKO Bank Polski Ekstraklasa",
+      "Club": "KAA Gent",
+      "Ligue": "Profvoetbal 1A",
+      "Possession": 0.5
+    },
+    {
+      "Club": "KFUM Oslo",
+      "Ligue": "Eliteserien",
       "Possession": 0.5
     },
     {
       "Club": "KRC Genk",
-      "Ligue": "Jupiler Pro League",
+      "Ligue": "Profvoetbal 1A",
+      "Possession": 0.5
+    },
+    {
+      "Club": "KV Kortrijk",
+      "Ligue": "Profvoetbal 1A",
       "Possession": 0.5
     },
     {
       "Club": "KV Mechelen",
-      "Ligue": "Jupiler Pro League",
+      "Ligue": "Profvoetbal 1A",
       "Possession": 0.5
     },
     {
-      "Club": "Kalamata",
-      "Ligue": "Stoiximan Super League",
-      "Possession": 0.5
-    },
-    {
-      "Club": "Kalmar FF",
-      "Ligue": "Allsvenskan",
-      "Possession": 0.5
-    },
-    {
-      "Club": "Kayserispor",
-      "Ligue": "Trendyol Süper Lig",
-      "Possession": 0.5
-    },
-    {
-      "Club": "Kilmarnock",
-      "Ligue": "William Hill Premiership",
+      "Club": "Kasımpaşa",
+      "Ligue": "Süper Lig",
       "Possession": 0.5
     },
     {
       "Club": "Kocaelispor",
-      "Ligue": "Trendyol Süper Lig",
-      "Possession": 0.5
-    },
-    {
-      "Club": "Kolos",
-      "Ligue": "VBet Liha",
+      "Ligue": "Süper Lig",
       "Possession": 0.5
     },
     {
       "Club": "Konyaspor",
-      "Ligue": "Trendyol Süper Lig",
+      "Ligue": "Süper Lig",
       "Possession": 0.5
     },
     {
-      "Club": "Korona",
-      "Ligue": "PKO Bank Polski Ekstraklasa",
-      "Possession": 0.5
-    },
-    {
-      "Club": "Krasnodar",
-      "Ligue": "MIR Rossiyskaya Premyer-Liga",
-      "Possession": 0.5
-    },
-    {
-      "Club": "Krylja Sovetov",
-      "Ligue": "MIR Rossiyskaya Premyer-Liga",
-      "Possession": 0.5
-    },
-    {
-      "Club": "Kryvbas",
-      "Ligue": "VBet Liha",
-      "Possession": 0.5
-    },
-    {
-      "Club": "Köln",
-      "Ligue": "Bundesliga",
+      "Club": "Kristiansund",
+      "Ligue": "Eliteserien",
       "Possession": 0.5
     },
     {
       "Club": "LA Galaxy",
-      "Ligue": "Major League Soccer",
+      "Ligue": "MLS",
       "Possession": 0.5
     },
     {
       "Club": "LAFC",
-      "Ligue": "Major League Soccer",
+      "Ligue": "MLS",
       "Possession": 0.5
     },
     {
-      "Club": "LASK",
-      "Ligue": "ADMIRAL Bundesliga",
-      "Possession": 0.5
-    },
-    {
-      "Club": "Lamia",
-      "Ligue": "Stoiximan Super League",
+      "Club": "La Louvière",
+      "Ligue": "Profvoetbal 1A",
       "Possession": 0.5
     },
     {
       "Club": "Lanús",
-      "Ligue": "Liga Profesional de Fútbol",
-      "Possession": 0.5
-    },
-    {
-      "Club": "Larisa",
-      "Ligue": "Stoiximan Super League",
-      "Possession": 0.5
-    },
-    {
-      "Club": "Lausanne",
-      "Ligue": "Credit Suisse Super League",
+      "Ligue": "Liga Profesional",
       "Possession": 0.5
     },
     {
       "Club": "Lazio",
-      "Ligue": "Serie A TIM",
+      "Ligue": "Serie A",
+      "Possession": 0.5
+    },
+    {
+      "Club": "Le Mans",
+      "Ligue": "Ligue 1",
       "Possession": 0.5
     },
     {
       "Club": "Lecce",
-      "Ligue": "Serie A TIM",
+      "Ligue": "Serie A",
       "Possession": 0.5
     },
     {
-      "Club": "Lech",
-      "Ligue": "PKO Bank Polski Ekstraklasa",
-      "Possession": 0.5
-    },
-    {
-      "Club": "Lechia",
-      "Ligue": "PKO Bank Polski Ekstraklasa",
-      "Possession": 0.5
-    },
-    {
-      "Club": "Legia",
-      "Ligue": "PKO Bank Polski Ekstraklasa",
+      "Club": "Leeds",
+      "Ligue": "Premier League",
       "Possession": 0.5
     },
     {
       "Club": "Lens",
-      "Ligue": "Ligue 1 Uber Eats",
-      "Possession": 0.56
+      "Ligue": "Ligue 1",
+      "Possession": 0.5
     },
     {
-      "Club": "León",
-      "Ligue": "Liga BBVA MX",
+      "Club": "Levante",
+      "Ligue": "LaLiga",
       "Possession": 0.5
     },
     {
       "Club": "Lille",
-      "Ligue": "Ligue 1 Uber Eats",
+      "Ligue": "Ligue 1",
       "Possession": 0.5
     },
     {
@@ -1068,46 +728,21 @@
     {
       "Club": "Liverpool",
       "Ligue": "Premier League",
-      "Possession": 0.55
-    },
-    {
-      "Club": "Livyi Bereh",
-      "Ligue": "VBet Liha",
-      "Possession": 0.5
-    },
-    {
-      "Club": "Lokomotiv Moscow",
-      "Ligue": "MIR Rossiyskaya Premyer-Liga",
       "Possession": 0.5
     },
     {
       "Club": "Lommel SK",
-      "Ligue": "Jupiler Pro League",
+      "Ligue": "Profvoetbal 1A",
       "Possession": 0.5
     },
     {
       "Club": "Lorient",
-      "Ligue": "Ligue 1 Uber Eats",
-      "Possession": 0.5
-    },
-    {
-      "Club": "Lugano",
-      "Ligue": "Credit Suisse Super League",
-      "Possession": 0.5
-    },
-    {
-      "Club": "Luzern",
-      "Ligue": "Credit Suisse Super League",
-      "Possession": 0.5
-    },
-    {
-      "Club": "Lyngby",
-      "Ligue": "3F Superliga",
+      "Ligue": "Ligue 1",
       "Possession": 0.5
     },
     {
       "Club": "Lyon",
-      "Ligue": "Ligue 1 Uber Eats",
+      "Ligue": "Ligue 1",
       "Possession": 0.5
     },
     {
@@ -1116,19 +751,9 @@
       "Possession": 0.5
     },
     {
-      "Club": "Mallorca",
-      "Ligue": "LaLiga EA Sports",
-      "Possession": 0.5
-    },
-    {
-      "Club": "Malmö FF",
-      "Ligue": "Allsvenskan",
-      "Possession": 0.5
-    },
-    {
       "Club": "Man City",
       "Ligue": "Premier League",
-      "Possession": 0.6
+      "Possession": 0.5
     },
     {
       "Club": "Man Utd",
@@ -1136,228 +761,123 @@
       "Possession": 0.5
     },
     {
-      "Club": "Manisa F.K.",
-      "Ligue": "Trendyol Süper Lig",
-      "Possession": 0.5
-    },
-    {
       "Club": "Marseille",
-      "Ligue": "Ligue 1 Uber Eats",
+      "Ligue": "Ligue 1",
       "Possession": 0.5
-    },
-    {
-      "Club": "Metz",
-      "Ligue": "Ligue 1 Uber Eats",
-      "Possession": 0.42
     },
     {
       "Club": "Milan",
-      "Ligue": "Serie A TIM",
-      "Possession": 0.55
+      "Ligue": "Serie A",
+      "Possession": 0.5
     },
     {
-      "Club": "Minnesota Utd",
-      "Ligue": "Major League Soccer",
+      "Club": "Minnesota United",
+      "Ligue": "MLS",
       "Possession": 0.5
     },
     {
       "Club": "Mirassol",
-      "Ligue": "Campeonato Brasileiro Série A Assaí",
+      "Ligue": "Brasileirão",
       "Possession": 0.5
     },
     {
-      "Club": "Mjällby AIF",
-      "Ligue": "Allsvenskan",
-      "Possession": 0.5
-    },
-    {
-      "Club": "Mladost",
-      "Ligue": "Mozzart Bet Super liga",
+      "Club": "Molde",
+      "Ligue": "Eliteserien",
       "Possession": 0.5
     },
     {
       "Club": "Monaco",
-      "Ligue": "Ligue 1 Uber Eats",
-      "Possession": 0.5
-    },
-    {
-      "Club": "Monterrey",
-      "Ligue": "Liga BBVA MX",
+      "Ligue": "Ligue 1",
       "Possession": 0.5
     },
     {
       "Club": "Monza",
-      "Ligue": "Serie A TIM",
+      "Ligue": "Serie A",
       "Possession": 0.5
     },
     {
       "Club": "Moreirense",
-      "Ligue": "Liga Portugal Betclic",
+      "Ligue": "Liga Portugal",
       "Possession": 0.5
     },
     {
-      "Club": "Motherwell",
-      "Ligue": "William Hill Premiership",
+      "Club": "Málaga",
+      "Ligue": "LaLiga",
       "Possession": 0.5
     },
     {
-      "Club": "N.E.C. Nijmegen",
+      "Club": "Mönchengladbach",
+      "Ligue": "Bundesliga",
+      "Possession": 0.5
+    },
+    {
+      "Club": "N.E.C.",
       "Ligue": "Eredivisie",
-      "Possession": 0.5
-    },
-    {
-      "Club": "NAC Breda",
-      "Ligue": "Eredivisie",
-      "Possession": 0.5
-    },
-    {
-      "Club": "NK Lokomotiva",
-      "Ligue": "SuperSport HNL",
       "Possession": 0.5
     },
     {
       "Club": "NY Red Bulls",
-      "Ligue": "Major League Soccer",
+      "Ligue": "MLS",
       "Possession": 0.5
     },
     {
       "Club": "Nacional da Madeira",
-      "Ligue": "Liga Portugal Betclic",
-      "Possession": 0.5
-    },
-    {
-      "Club": "Nantes",
-      "Ligue": "Ligue 1 Uber Eats",
+      "Ligue": "Liga Portugal",
       "Possession": 0.5
     },
     {
       "Club": "Napoli",
-      "Ligue": "Serie A TIM",
-      "Possession": 0.56
-    },
-    {
-      "Club": "Napredak",
-      "Ligue": "Mozzart Bet Super liga",
+      "Ligue": "Serie A",
       "Possession": 0.5
     },
     {
       "Club": "Nashville",
-      "Ligue": "Major League Soccer",
-      "Possession": 0.5
-    },
-    {
-      "Club": "Necaxa",
-      "Ligue": "Liga BBVA MX",
-      "Possession": 0.5
-    },
-    {
-      "Club": "Neftekhimik",
-      "Ligue": "MIR Rossiyskaya Premyer-Liga",
-      "Possession": 0.5
-    },
-    {
-      "Club": "Neuchâtel Xamax",
-      "Ligue": "Credit Suisse Super League",
+      "Ligue": "MLS",
       "Possession": 0.5
     },
     {
       "Club": "New England",
-      "Ligue": "Major League Soccer",
+      "Ligue": "MLS",
       "Possession": 0.5
     },
     {
       "Club": "New York City",
-      "Ligue": "Major League Soccer",
+      "Ligue": "MLS",
       "Possession": 0.5
     },
     {
       "Club": "Newcastle",
       "Ligue": "Premier League",
-      "Possession": 0.57
+      "Possession": 0.5
     },
     {
       "Club": "Newell's",
-      "Ligue": "Liga Profesional de Fútbol",
+      "Ligue": "Liga Profesional",
       "Possession": 0.5
     },
     {
       "Club": "Nice",
-      "Ligue": "Ligue 1 Uber Eats",
+      "Ligue": "Ligue 1",
       "Possession": 0.5
     },
     {
-      "Club": "Nottm Forest",
+      "Club": "Nott'm Forest",
       "Ligue": "Premier League",
       "Possession": 0.5
     },
     {
-      "Club": "Novi Pazar",
-      "Ligue": "Mozzart Bet Super liga",
-      "Possession": 0.5
-    },
-    {
-      "Club": "OB",
-      "Ligue": "3F Superliga",
-      "Possession": 0.5
-    },
-    {
-      "Club": "OFI",
-      "Ligue": "Stoiximan Super League",
-      "Possession": 0.5
-    },
-    {
-      "Club": "OFK Beograd",
-      "Ligue": "Mozzart Bet Super liga",
-      "Possession": 0.5
-    },
-    {
       "Club": "OH Leuven",
-      "Ligue": "Jupiler Pro League",
-      "Possession": 0.5
-    },
-    {
-      "Club": "Oleksandriia",
-      "Ligue": "VBet Liha",
-      "Possession": 0.5
-    },
-    {
-      "Club": "Olympiacos",
-      "Ligue": "Stoiximan Super League",
-      "Possession": 0.5
-    },
-    {
-      "Club": "Operário (PR)",
-      "Ligue": "Campeonato Brasileiro Série A Assaí",
-      "Possession": 0.5
-    },
-    {
-      "Club": "Orenburg",
-      "Ligue": "MIR Rossiyskaya Premyer-Liga",
+      "Ligue": "Profvoetbal 1A",
       "Possession": 0.5
     },
     {
       "Club": "Orlando City",
-      "Ligue": "Major League Soccer",
+      "Ligue": "MLS",
       "Possession": 0.5
     },
     {
       "Club": "Osasuna",
-      "Ligue": "LaLiga EA Sports",
-      "Possession": 0.5
-    },
-    {
-      "Club": "Osijek",
-      "Ligue": "SuperSport HNL",
-      "Possession": 0.5
-    },
-    {
-      "Club": "PAOK",
-      "Ligue": "Stoiximan Super League",
-      "Possession": 0.5
-    },
-    {
-      "Club": "PAS Giannina",
-      "Ligue": "Stoiximan Super League",
+      "Ligue": "LaLiga",
       "Possession": 0.5
     },
     {
@@ -1367,8 +887,8 @@
     },
     {
       "Club": "PSG",
-      "Ligue": "Ligue 1 Uber Eats",
-      "Possession": 0.63
+      "Ligue": "Ligue 1",
+      "Possession": 0.5
     },
     {
       "Club": "PSV",
@@ -1376,93 +896,38 @@
       "Possession": 0.5
     },
     {
-      "Club": "Pachuca",
-      "Ligue": "Liga BBVA MX",
-      "Possession": 0.5
-    },
-    {
-      "Club": "Palermo",
-      "Ligue": "Serie A TIM",
-      "Possession": 0.41
-    },
-    {
       "Club": "Palmeiras",
-      "Ligue": "Campeonato Brasileiro Série A Assaí",
-      "Possession": 0.5
-    },
-    {
-      "Club": "Panathinaikos",
-      "Ligue": "Stoiximan Super League",
+      "Ligue": "Brasileirão",
       "Possession": 0.5
     },
     {
       "Club": "Paris FC",
-      "Ligue": "Ligue 1 Uber Eats",
+      "Ligue": "Ligue 1",
       "Possession": 0.5
     },
     {
-      "Club": "Parma",
-      "Ligue": "Serie A TIM",
-      "Possession": 0.5
-    },
-    {
-      "Club": "Partizan",
-      "Ligue": "Mozzart Bet Super liga",
+      "Club": "Parma Calcio",
+      "Ligue": "Serie A",
       "Possession": 0.5
     },
     {
       "Club": "Philadelphia",
-      "Ligue": "Major League Soccer",
-      "Possession": 0.5
-    },
-    {
-      "Club": "Piast",
-      "Ligue": "PKO Bank Polski Ekstraklasa",
+      "Ligue": "MLS",
       "Possession": 0.5
     },
     {
       "Club": "Platense",
-      "Ligue": "Liga Profesional de Fútbol",
-      "Possession": 0.5
-    },
-    {
-      "Club": "Pogoń",
-      "Ligue": "PKO Bank Polski Ekstraklasa",
-      "Possession": 0.5
-    },
-    {
-      "Club": "Polissia",
-      "Ligue": "VBet Liha",
+      "Ligue": "Liga Profesional",
       "Possession": 0.5
     },
     {
       "Club": "Portland",
-      "Ligue": "Major League Soccer",
-      "Possession": 0.5
-    },
-    {
-      "Club": "Puebla",
-      "Ligue": "Liga BBVA MX",
-      "Possession": 0.5
-    },
-    {
-      "Club": "Pumas",
-      "Ligue": "Liga BBVA MX",
-      "Possession": 0.5
-    },
-    {
-      "Club": "Querétaro",
-      "Ligue": "Liga BBVA MX",
-      "Possession": 0.5
-    },
-    {
-      "Club": "RAAL La Louvière",
-      "Ligue": "Jupiler Pro League",
+      "Ligue": "MLS",
       "Possession": 0.5
     },
     {
       "Club": "RB Bragantino",
-      "Ligue": "Campeonato Brasileiro Série A Assaí",
+      "Ligue": "Brasileirão",
       "Possession": 0.5
     },
     {
@@ -1471,119 +936,64 @@
       "Possession": 0.5
     },
     {
-      "Club": "RB Salzburg",
-      "Ligue": "ADMIRAL Bundesliga",
-      "Possession": 0.5
-    },
-    {
-      "Club": "RKC Waalwijk",
-      "Ligue": "Eredivisie",
-      "Possession": 0.5
-    },
-    {
-      "Club": "RWDM Brussels",
-      "Ligue": "Jupiler Pro League",
+      "Club": "Racing",
+      "Ligue": "LaLiga",
       "Possession": 0.5
     },
     {
       "Club": "Racing Club",
-      "Ligue": "Liga Profesional de Fútbol",
-      "Possession": 0.5
-    },
-    {
-      "Club": "Radnički",
-      "Ligue": "Mozzart Bet Super liga",
-      "Possession": 0.5
-    },
-    {
-      "Club": "Radnički 1923",
-      "Ligue": "Mozzart Bet Super liga",
-      "Possession": 0.5
-    },
-    {
-      "Club": "Radomiak",
-      "Ligue": "PKO Bank Polski Ekstraklasa",
-      "Possession": 0.5
-    },
-    {
-      "Club": "Raith Rovers",
-      "Ligue": "William Hill Premiership",
-      "Possession": 0.5
-    },
-    {
-      "Club": "Raków",
-      "Ligue": "PKO Bank Polski Ekstraklasa",
-      "Possession": 0.5
-    },
-    {
-      "Club": "Rangers",
-      "Ligue": "William Hill Premiership",
+      "Ligue": "Liga Profesional",
       "Possession": 0.5
     },
     {
       "Club": "Rayo Vallecano",
-      "Ligue": "LaLiga EA Sports",
+      "Ligue": "LaLiga",
       "Possession": 0.5
     },
     {
       "Club": "Real Betis",
-      "Ligue": "LaLiga EA Sports",
+      "Ligue": "LaLiga",
       "Possession": 0.5
     },
     {
       "Club": "Real Madrid",
-      "Ligue": "LaLiga EA Sports",
-      "Possession": 0.62
-    },
-    {
-      "Club": "Real Oviedo",
-      "Ligue": "LaLiga EA Sports",
-      "Possession": 0.5
+      "Ligue": "LaLiga",
+      "Possession": 0.61
     },
     {
       "Club": "Real Salt Lake",
-      "Ligue": "Major League Soccer",
+      "Ligue": "MLS",
       "Possession": 0.5
     },
     {
       "Club": "Real Sociedad",
-      "Ligue": "LaLiga EA Sports",
+      "Ligue": "LaLiga",
       "Possession": 0.5
     },
     {
       "Club": "Rennes",
-      "Ligue": "Ligue 1 Uber Eats",
-      "Possession": 0.5
-    },
-    {
-      "Club": "Rijeka",
-      "Ligue": "SuperSport HNL",
+      "Ligue": "Ligue 1",
       "Possession": 0.5
     },
     {
       "Club": "Rio Ave",
-      "Ligue": "Liga Portugal Betclic",
+      "Ligue": "Liga Portugal",
       "Possession": 0.5
     },
     {
-      "Club": "River",
-      "Ligue": "Liga Profesional de Fútbol",
-      "Possession": 0.5
-    },
-    {
-      "Club": "Rizespor",
-      "Ligue": "Trendyol Süper Lig",
-      "Possession": 0.5
-    },
-    {
-      "Club": "Roda JC Kerkrade",
-      "Ligue": "Eredivisie",
+      "Club": "River Plate",
+      "Ligue": "Liga Profesional",
       "Possession": 0.5
     },
     {
       "Club": "Roma",
-      "Ligue": "Serie A TIM",
-      "Possession": 0.58
+      "Ligue": "Serie A",
+      "Possession": 0.5
+    },
+    {
+      "Club": "Rosario Central",
+      "Ligue": "Liga Profesional",
+      "Possession": 0.5
     },
     {
       "Club": "Rosenborg",
@@ -1591,78 +1001,63 @@
       "Possession": 0.5
     },
     {
-      "Club": "Rostov",
-      "Ligue": "MIR Rossiyskaya Premyer-Liga",
-      "Possession": 0.5
-    },
-    {
-      "Club": "Rubin",
-      "Ligue": "MIR Rossiyskaya Premyer-Liga",
+      "Club": "SC Cambuur",
+      "Ligue": "Eredivisie",
       "Possession": 0.5
     },
     {
       "Club": "SC Paderborn",
       "Ligue": "Bundesliga",
-      "Possession": 0.43
-    },
-    {
-      "Club": "SCR Altach",
-      "Ligue": "ADMIRAL Bundesliga",
       "Possession": 0.5
     },
     {
       "Club": "SK Beveren",
-      "Ligue": "Jupiler Pro League",
-      "Possession": 0.5
-    },
-    {
-      "Club": "SK Rapid",
-      "Ligue": "ADMIRAL Bundesliga",
-      "Possession": 0.5
-    },
-    {
-      "Club": "SK Sturm",
-      "Ligue": "ADMIRAL Bundesliga",
+      "Ligue": "Profvoetbal 1A",
       "Possession": 0.5
     },
     {
       "Club": "SL Benfica",
-      "Ligue": "Liga Portugal Betclic",
-      "Possession": 0.59
-    },
-    {
-      "Club": "SV Ried",
-      "Ligue": "ADMIRAL Bundesliga",
+      "Ligue": "Liga Portugal",
       "Possession": 0.5
     },
     {
-      "Club": "Saint-Étienne",
-      "Ligue": "Ligue 1 Uber Eats",
+      "Club": "SV Elversberg",
+      "Ligue": "Bundesliga",
       "Possession": 0.5
     },
     {
       "Club": "Samsunspor",
-      "Ligue": "Trendyol Süper Lig",
+      "Ligue": "Süper Lig",
+      "Possession": 0.5
+    },
+    {
+      "Club": "San Diego FC",
+      "Ligue": "MLS",
       "Possession": 0.5
     },
     {
       "Club": "San Jose",
-      "Ligue": "Major League Soccer",
+      "Ligue": "MLS",
       "Possession": 0.5
     },
     {
-      "Club": "San Martín (Tucumán)",
-      "Ligue": "Liga Profesional de Fútbol",
+      "Club": "San Lorenzo",
+      "Ligue": "Liga Profesional",
       "Possession": 0.5
     },
     {
-      "Club": "Santos Laguna",
-      "Ligue": "Liga BBVA MX",
+      "Club": "Sandefjord",
+      "Ligue": "Eliteserien",
+      "Possession": 0.5
+    },
+    {
+      "Club": "Santa Clara",
+      "Ligue": "Liga Portugal",
       "Possession": 0.5
     },
     {
       "Club": "Sarmiento (Junín)",
-      "Ligue": "Liga Profesional de Fútbol",
+      "Ligue": "Liga Profesional",
       "Possession": 0.5
     },
     {
@@ -1672,117 +1067,72 @@
     },
     {
       "Club": "Sassuolo",
-      "Ligue": "Serie A TIM",
+      "Ligue": "Serie A",
+      "Possession": 0.5
+    },
+    {
+      "Club": "Schalke 04",
+      "Ligue": "Bundesliga",
       "Possession": 0.5
     },
     {
       "Club": "Seattle",
-      "Ligue": "Major League Soccer",
-      "Possession": 0.5
-    },
-    {
-      "Club": "Servette",
-      "Ligue": "Credit Suisse Super League",
+      "Ligue": "MLS",
       "Possession": 0.5
     },
     {
       "Club": "Sevilla",
-      "Ligue": "LaLiga EA Sports",
-      "Possession": 0.5
-    },
-    {
-      "Club": "Shakhtar",
-      "Ligue": "VBet Liha",
+      "Ligue": "LaLiga",
       "Possession": 0.5
     },
     {
       "Club": "Sint-Truiden",
-      "Ligue": "Jupiler Pro League",
-      "Possession": 0.5
-    },
-    {
-      "Club": "Sion",
-      "Ligue": "Credit Suisse Super League",
-      "Possession": 0.5
-    },
-    {
-      "Club": "Sivasspor",
-      "Ligue": "Trendyol Süper Lig",
-      "Possession": 0.5
-    },
-    {
-      "Club": "Slaven Belupo",
-      "Ligue": "SuperSport HNL",
-      "Possession": 0.5
-    },
-    {
-      "Club": "Sogndal",
-      "Ligue": "Eliteserien",
+      "Ligue": "Profvoetbal 1A",
       "Possession": 0.5
     },
     {
       "Club": "Sp. Braga",
-      "Ligue": "Liga Portugal Betclic",
+      "Ligue": "Liga Portugal",
       "Possession": 0.5
     },
     {
-      "Club": "Sp. Farense",
-      "Ligue": "Liga Portugal Betclic",
+      "Club": "Sparta Rotterdam",
+      "Ligue": "Eredivisie",
       "Possession": 0.5
     },
     {
-      "Club": "Spartak",
-      "Ligue": "Mozzart Bet Super liga",
-      "Possession": 0.5
-    },
-    {
-      "Club": "Spartak Moscow",
-      "Ligue": "MIR Rossiyskaya Premyer-Liga",
+      "Club": "Sport",
+      "Ligue": "Brasileirão",
       "Possession": 0.5
     },
     {
       "Club": "Sporting CP",
-      "Ligue": "Liga Portugal Betclic",
-      "Possession": 0.61
-    },
-    {
-      "Club": "Sporting KC",
-      "Ligue": "Major League Soccer",
+      "Ligue": "Liga Portugal",
       "Possession": 0.5
     },
     {
-      "Club": "St. Gallen",
-      "Ligue": "Credit Suisse Super League",
+      "Club": "Sporting KC",
+      "Ligue": "MLS",
       "Possession": 0.5
     },
     {
       "Club": "St. Louis CITY",
-      "Ligue": "Major League Soccer",
+      "Ligue": "MLS",
       "Possession": 0.5
     },
     {
-      "Club": "Stabæk",
+      "Club": "Standard Liège",
+      "Ligue": "Profvoetbal 1A",
+      "Possession": 0.5
+    },
+    {
+      "Club": "Strasbourg",
+      "Ligue": "Ligue 1",
+      "Possession": 0.5
+    },
+    {
+      "Club": "Strømsgodset",
       "Ligue": "Eliteserien",
-      "Possession": 0.5
-    },
-    {
-      "Club": "Stade Lausanne-Ouchy",
-      "Ligue": "Credit Suisse Super League",
-      "Possession": 0.5
-    },
-    {
-      "Club": "Stade Reims",
-      "Ligue": "Ligue 1 Uber Eats",
-      "Possession": 0.5
-    },
-    {
-      "Club": "Stal Mielec",
-      "Ligue": "PKO Bank Polski Ekstraklasa",
-      "Possession": 0.5
-    },
-    {
-      "Club": "Standard",
-      "Ligue": "Jupiler Pro League",
       "Possession": 0.5
     },
     {
@@ -1797,67 +1147,32 @@
     },
     {
       "Club": "São Paulo",
-      "Ligue": "Campeonato Brasileiro Série A Assaí",
-      "Possession": 0.5
-    },
-    {
-      "Club": "Sønderjyske",
-      "Ligue": "3F Superliga",
-      "Possession": 0.5
-    },
-    {
-      "Club": "TSC",
-      "Ligue": "Mozzart Bet Super liga",
-      "Possession": 0.5
-    },
-    {
-      "Club": "TSV Hartberg",
-      "Ligue": "ADMIRAL Bundesliga",
+      "Ligue": "Brasileirão",
       "Possession": 0.5
     },
     {
       "Club": "Talleres",
-      "Ligue": "Liga Profesional de Fútbol",
+      "Ligue": "Liga Profesional",
       "Possession": 0.5
     },
     {
-      "Club": "Thun",
-      "Ligue": "Credit Suisse Super League",
+      "Club": "Telstar",
+      "Ligue": "Eredivisie",
       "Possession": 0.5
     },
     {
       "Club": "Tigre",
-      "Ligue": "Liga Profesional de Fútbol",
-      "Possession": 0.5
-    },
-    {
-      "Club": "Tigres",
-      "Ligue": "Liga BBVA MX",
-      "Possession": 0.5
-    },
-    {
-      "Club": "Tijuana",
-      "Ligue": "Liga BBVA MX",
-      "Possession": 0.5
-    },
-    {
-      "Club": "Toluca",
-      "Ligue": "Liga BBVA MX",
-      "Possession": 0.5
-    },
-    {
-      "Club": "Tondela",
-      "Ligue": "Liga Portugal Betclic",
+      "Ligue": "Liga Profesional",
       "Possession": 0.5
     },
     {
       "Club": "Torino",
-      "Ligue": "Serie A TIM",
+      "Ligue": "Serie A",
       "Possession": 0.5
     },
     {
       "Club": "Toronto FC",
-      "Ligue": "Major League Soccer",
+      "Ligue": "MLS",
       "Possession": 0.5
     },
     {
@@ -1867,22 +1182,27 @@
     },
     {
       "Club": "Toulouse",
-      "Ligue": "Ligue 1 Uber Eats",
+      "Ligue": "Ligue 1",
       "Possession": 0.5
     },
     {
       "Club": "Trabzonspor",
-      "Ligue": "Trendyol Süper Lig",
-      "Possession": 0.5
-    },
-    {
-      "Club": "Trelleborgs FF",
-      "Ligue": "Allsvenskan",
+      "Ligue": "Süper Lig",
       "Possession": 0.5
     },
     {
       "Club": "Tromsø",
       "Ligue": "Eliteserien",
+      "Possession": 0.5
+    },
+    {
+      "Club": "Troyes",
+      "Ligue": "Ligue 1",
+      "Possession": 0.5
+    },
+    {
+      "Club": "Udinese",
+      "Ligue": "Serie A",
       "Possession": 0.5
     },
     {
@@ -1892,37 +1212,32 @@
     },
     {
       "Club": "Union SG",
-      "Ligue": "Jupiler Pro League",
+      "Ligue": "Profvoetbal 1A",
+      "Possession": 0.5
+    },
+    {
+      "Club": "Unión (SF)",
+      "Ligue": "Liga Profesional",
       "Possession": 0.5
     },
     {
       "Club": "Valencia",
-      "Ligue": "LaLiga EA Sports",
-      "Possession": 0.5
+      "Ligue": "LaLiga",
+      "Possession": 0.44
     },
     {
       "Club": "Vancouver",
-      "Ligue": "Major League Soccer",
-      "Possession": 0.5
-    },
-    {
-      "Club": "Varaždin",
-      "Ligue": "SuperSport HNL",
+      "Ligue": "MLS",
       "Possession": 0.5
     },
     {
       "Club": "Vasco da Gama",
-      "Ligue": "Campeonato Brasileiro Série A Assaí",
+      "Ligue": "Brasileirão",
       "Possession": 0.5
     },
     {
       "Club": "Venezia",
-      "Ligue": "Serie A TIM",
-      "Possession": 0.5
-    },
-    {
-      "Club": "Viborg FF",
-      "Ligue": "3F Superliga",
+      "Ligue": "Serie A",
       "Possession": 0.5
     },
     {
@@ -1932,32 +1247,17 @@
     },
     {
       "Club": "Villarreal",
-      "Ligue": "LaLiga EA Sports",
+      "Ligue": "LaLiga",
       "Possession": 0.5
     },
     {
       "Club": "Vit. Guimarães",
-      "Ligue": "Liga Portugal Betclic",
+      "Ligue": "Liga Portugal",
       "Possession": 0.5
     },
     {
-      "Club": "Vojvodina",
-      "Ligue": "Mozzart Bet Super liga",
-      "Possession": 0.5
-    },
-    {
-      "Club": "Volos",
-      "Ligue": "Stoiximan Super League",
-      "Possession": 0.5
-    },
-    {
-      "Club": "Vorskla",
-      "Ligue": "VBet Liha",
-      "Possession": 0.5
-    },
-    {
-      "Club": "Västerås SK",
-      "Ligue": "Allsvenskan",
+      "Club": "Vitória",
+      "Ligue": "Brasileirão",
       "Possession": 0.5
     },
     {
@@ -1967,12 +1267,7 @@
     },
     {
       "Club": "Vélez",
-      "Ligue": "Liga Profesional de Fútbol",
-      "Possession": 0.5
-    },
-    {
-      "Club": "WSG Tirol",
-      "Ligue": "ADMIRAL Bundesliga",
+      "Ligue": "Liga Profesional",
       "Possession": 0.5
     },
     {
@@ -1981,18 +1276,8 @@
       "Possession": 0.5
     },
     {
-      "Club": "West Ham",
-      "Ligue": "Premier League",
-      "Possession": 0.5
-    },
-    {
       "Club": "Westerlo",
-      "Ligue": "Jupiler Pro League",
-      "Possession": 0.5
-    },
-    {
-      "Club": "Widzew",
-      "Ligue": "PKO Bank Polski Ekstraklasa",
+      "Ligue": "Profvoetbal 1A",
       "Possession": 0.5
     },
     {
@@ -2001,53 +1286,8 @@
       "Possession": 0.5
     },
     {
-      "Club": "Winterthur",
-      "Ligue": "Credit Suisse Super League",
-      "Possession": 0.5
-    },
-    {
-      "Club": "Wisła Kraków",
-      "Ligue": "PKO Bank Polski Ekstraklasa",
-      "Possession": 0.5
-    },
-    {
-      "Club": "Wisła Płock",
-      "Ligue": "PKO Bank Polski Ekstraklasa",
-      "Possession": 0.5
-    },
-    {
-      "Club": "Wolfsberger AC",
-      "Ligue": "ADMIRAL Bundesliga",
-      "Possession": 0.5
-    },
-    {
-      "Club": "Wolfsburg",
-      "Ligue": "Bundesliga",
-      "Possession": 0.5
-    },
-    {
-      "Club": "Wolves",
-      "Ligue": "Premier League",
-      "Possession": 0.5
-    },
-    {
-      "Club": "Young Boys",
-      "Ligue": "Credit Suisse Super League",
-      "Possession": 0.5
-    },
-    {
-      "Club": "Zenit",
-      "Ligue": "MIR Rossiyskaya Premyer-Liga",
-      "Possession": 0.5
-    },
-    {
-      "Club": "Zulte Waregem",
-      "Ligue": "Jupiler Pro League",
-      "Possession": 0.5
-    },
-    {
-      "Club": "Zürich",
-      "Ligue": "Credit Suisse Super League",
+      "Club": "Zulte-Waregem",
+      "Ligue": "Profvoetbal 1A",
       "Possession": 0.5
     },
     {
@@ -2056,125 +1296,72 @@
       "Possession": 0.5
     },
     {
-      "Club": "Örgryte IS",
-      "Ligue": "Allsvenskan",
+      "Club": "Çaykur Rizespor",
+      "Ligue": "Süper Lig",
       "Possession": 0.5
     },
     {
-      "Club": "Čukarički",
-      "Ligue": "Mozzart Bet Super liga",
-      "Possession": 0.5
-    },
-    {
-      "Club": "Šibenik",
-      "Ligue": "SuperSport HNL",
+      "Club": "Çorum F.K.",
+      "Ligue": "Süper Lig",
       "Possession": 0.5
     }
   ],
   "modificateurs": [
     {
-      "Ligue": "3F Superliga",
-      "Modificateur": 0.75
-    },
-    {
-      "Ligue": "ADMIRAL Bundesliga",
-      "Modificateur": 0.75
-    },
-    {
-      "Ligue": "Allsvenskan",
-      "Modificateur": 0.75
+      "Ligue": "Brasileirão",
+      "Modificateur": 1.0
     },
     {
       "Ligue": "Bundesliga",
       "Modificateur": 1.0
     },
     {
-      "Ligue": "Campeonato Brasileiro Série A Assaí",
-      "Modificateur": 0.8
-    },
-    {
-      "Ligue": "Credit Suisse Super League",
-      "Modificateur": 0.75
-    },
-    {
       "Ligue": "Eliteserien",
-      "Modificateur": 0.75
-    },
-    {
-      "Ligue": "Eredivisie",
-      "Modificateur": 0.85
-    },
-    {
-      "Ligue": "Jupiler Pro League",
-      "Modificateur": 0.85
-    },
-    {
-      "Ligue": "LaLiga EA Sports",
       "Modificateur": 1.0
     },
     {
-      "Ligue": "Liga BBVA MX",
-      "Modificateur": 0.75
-    },
-    {
-      "Ligue": "Liga Portugal Betclic",
+      "Ligue": "Eredivisie",
       "Modificateur": 0.9
     },
     {
-      "Ligue": "Liga Profesional de Fútbol",
-      "Modificateur": 0.8
+      "Ligue": "LaLiga",
+      "Modificateur": 1.0
     },
     {
-      "Ligue": "Ligue 1 Uber Eats",
+      "Ligue": "Liga Portugal",
+      "Modificateur": 0.9
+    },
+    {
+      "Ligue": "Liga Profesional",
+      "Modificateur": 1.0
+    },
+    {
+      "Ligue": "Ligue 1",
       "Modificateur": 0.95
     },
     {
-      "Ligue": "MIR Rossiyskaya Premyer-Liga",
-      "Modificateur": 0.75
+      "Ligue": "MLS",
+      "Modificateur": 0.9
     },
     {
-      "Ligue": "Major League Soccer",
-      "Modificateur": 0.8
-    },
-    {
-      "Ligue": "Mozzart Bet Super liga",
-      "Modificateur": 0.75
-    },
-    {
-      "Ligue": "PKO Bank Polski Ekstraklasa",
-      "Modificateur": 0.75
+      "Ligue": "National U19 Groupe D",
+      "Modificateur": 1.0
     },
     {
       "Ligue": "Premier League",
       "Modificateur": 1.0
     },
     {
-      "Ligue": "Saudi Pro League",
-      "Modificateur": 0.65
-    },
-    {
-      "Ligue": "Serie A TIM",
-      "Modificateur": 1.0
-    },
-    {
-      "Ligue": "Stoiximan Super League",
-      "Modificateur": 0.75
-    },
-    {
-      "Ligue": "SuperSport HNL",
-      "Modificateur": 0.75
-    },
-    {
-      "Ligue": "Trendyol Süper Lig",
+      "Ligue": "Profvoetbal 1A",
       "Modificateur": 0.9
     },
     {
-      "Ligue": "VBet Liha",
-      "Modificateur": 0.75
+      "Ligue": "Serie A",
+      "Modificateur": 1.0
     },
     {
-      "Ligue": "William Hill Premiership",
-      "Modificateur": 0.75
+      "Ligue": "Süper Lig",
+      "Modificateur": 0.9
     }
   ]
 }
